@@ -6,8 +6,8 @@ export default function Home() {
      <div className="min-h-full flex flex-col justify-center py-12 sm:px-6 md:px-8 bg-gray-100">
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
         <Image
-          height="58"
-          width="58"
+          height="48"
+          width="48"
           className="mx-auto w-auto"
           src="/images/messagelogo.png"
           alt="Logo"
